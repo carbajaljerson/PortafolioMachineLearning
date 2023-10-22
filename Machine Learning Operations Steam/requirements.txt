@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+uvicorn
+fastapi
+pickleshare==0.7.5
