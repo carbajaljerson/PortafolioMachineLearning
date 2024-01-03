@@ -158,7 +158,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 <img src="src\image01.png" height="400" weight="550">
 <p>
 <p align=center>
-<img src="src\image02.png" height="200" weight="500">
+<img src="src\image02.png" height="210" weight="500">
 <p>
 <p align=center>
 <img src="src\image03.png" height="400" weight="550">
@@ -173,20 +173,32 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
 ## **3. Modelo Predictivo**
 
+- Los modelos que se utilizaron para este proyecto fueron : Regresion Lineal, Grid Search, Decision Tree Regressor, Random Forest Regressor y XGBoost.
+ 
+- El modelo con cual se obtuvo un menor valor de error fue con el Random Forest Regression, para lograr esta elección en primer lugar se tuvo que estimar la métrica MAE y escoger su menor valor en 3 situaciones (Eliminando registros nulos de columnas Categóricas, Imputacion de la moda en columnas Categóricas y Imputación mediante modelo de machine learning) luego se evaluaron los diferentes ajustes de hiperparámetros.
+
 ## **4. Despliegue de la Aplicación**
 
-El despliegue de la Aplicacion se realizo a través de Streamlit 
+El despliegue de la Aplicacion se realizo a través de Streamlit y se encuentra en el siguiente [enlace](https://apphousing-lima.streamlit.app/)
 
 ## **5. Conclusiones**
 
 Mis principales conclusiones son las siguientes:
- 
-✅ Se obtuvo un error alrededor del 30% 
+
+
+✅ Se obtuvo un error alrededor del 30% sobre la predicción de precios de las viviendas. 
+
+✅ Existieron desafios en la transformación de los datos al considerar ciertas columnas como categóricas.
+
+✅ Respecto al despliegue se encontró que la pagina de Streamlit ofrece mejores recursos respecto a la capa gratuita de Render y consiguió alojar el modelo y se obtuvo un funcionamiento de la aplicación más eficiente.
 
 ## **6. Recomendaciones**
 
  
-✅ Se considera importante en la mejora del modelo poder realizar un web Scraping de paginas donde se publican las ventas de inmuebles en Lima.
+✅ Se considera importante para la mejora del modelo realizar un Web Scraping de paginas donde se publican las ventas de inmuebles en Lima además de explorar la posibilidad de recopilar más datos relevantes.
+
+✅ Para mejorar el modelo es recomendable realizar una clasificación previa de los precios de las viviendas de acuerdo a sus características por medio de un experto para este caso un agente inmobiliario, para así lograr tener una segmentación profesional.
+
 
 ## 🛠 Tecnologías Utilizadas
 
