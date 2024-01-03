@@ -5,9 +5,6 @@
 [![HitCount](https://hits.dwyl.com/dwyl/hits.svg)](https://github.com/carbajaljerson/PI02_SiniestrosViales_CABA/)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 
-<p align=center>
-<img src="src\logo.png" height="400" weight="550">
-<p>
 
 # <h1 align="center">**`Precios de Viviendas en Lima`**</h1>
 
@@ -156,6 +153,22 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 ## **2. Análisis Exploratorio de los Datos (EDA)**
 
 Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables del dataset, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y se verifica si hay algún patrón o conocimiento que sirva en un análisis posterior que sería el modelo. 
+
+<p align=center>
+<img src="src\image01.png" height="400" weight="550">
+<p>
+<p align=center>
+<img src="src\image02.png" height="200" weight="500">
+<p>
+<p align=center>
+<img src="src\image03.png" height="400" weight="550">
+<p>
+<p align=center>
+<img src="src\image04.png" height="330" weight="550">
+<p>
+<p align=center>
+<img src="src\image05.png" height="350" weight="550">
+<p>
 
 
 ## **3. Modelo Predictivo**
