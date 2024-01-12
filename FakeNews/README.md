@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 
 
-# <h1 align="center">**`Precios de Viviendas en Lima`**</h1>
+# <h1 align="center">**`Noticias Falsas`**</h1>
 
 Bienvenidos a continuación se presenta el desarrollo del Proyecto Machine Learning 
 
