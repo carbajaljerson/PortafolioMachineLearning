@@ -34,7 +34,7 @@ This project was developed based on 2 files in Excel format:
 The data used for this analysis project can be found at the following [download link](https://drive.google.com/drive/folders/155gdhdu0Jbts6t6P1BC5PRrdRLdDe5ZD?usp=sharing) 
 
 
-## **DESARROLLO DEL PROYECTO ** 
+## ** PROJECT DEVELOPMENT ** 
 
 ## **1. ETL Process** :
 
