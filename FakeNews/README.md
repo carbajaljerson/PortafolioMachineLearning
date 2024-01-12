@@ -6,48 +6,47 @@
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 
 
-# <h1 align="center">**`Noticias Falsas`**</h1>
+# <h1 align="center">**`Fake News`**</h1>
 
-Bienvenidos a continuación se presenta el desarrollo del Proyecto Machine Learning 
+Welcome, below is the development of the Machine Learning Project:
 
-## Introducción
-
-
-
-## Definición de Ojetivos y requisitos del proyecto:
+## Introduction
 
 
 
-## 📊 Alcance del Proyecto
+## Definition of Project and Requirements:
 
-El siguiente proyecto contiene los siguientes desarrollos:
 
-- Transformación y Carga de la data
-- Análisis Exploratorio de Datos
-- Creación del Modelo Predictivo
-- Despliegue de la aplicación
+
+## 📊 Project Scope
+
+The following project includes the following developments:
+
+Data Transformation and Loading
+Exploratory Data Analysis
+Creation of the Predictive Model
+Deployment of the Application
 
 ## Datos
 
-Este proyecto se desarrolló en base a 2 archivos que se encuentran en formato de Excel:
+This project was developed based on 2 files in Excel format:
 
-
-Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://drive.google.com/drive/folders/155gdhdu0Jbts6t6P1BC5PRrdRLdDe5ZD?usp=sharing) 
+The data used for this analysis project can be found at the following [download link](https://drive.google.com/drive/folders/155gdhdu0Jbts6t6P1BC5PRrdRLdDe5ZD?usp=sharing) 
 
 
 ## **DESARROLLO DEL PROYECTO ** 
 
-## **1. Etapa del proceso ETL** :
+## **1. ETL Process** :
 
-- Carga del archivo con extensión .csv con la libreria pandas.
-- Luego se realizó el trabajo ETL(Extracción, Transformación y Carga).
-- Se realizaron diversas transformaciones cumpliéndose con la estandarización de los datos se analizaron nulos y duplicados, se eliminaron columnas redundantes, entre otras tareas como la normalizción de la Data.
+Loading the file with .csv extension using the pandas library.
+Then the ETL (Extraction, Transformation, and Loading) work was carried out.
+Various transformations were performed, meeting data standardization by analyzing nulls and duplicates, eliminating redundant columns, among other tasks such as data normalization.
 
 
 
-## **2. Análisis Exploratorio de los Datos (EDA)**
+## **2. Exploratory Data Analysis (EDA)**
 
-Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables del dataset, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y se verifica si hay algún patrón o conocimiento que sirva en un análisis posterior que sería el modelo. 
+Once the data is clean, it's time to review the relationships between the variables in the dataset, find if there are outliers or anomalies (which don't necessarily have to be errors), and check if there is any pattern or knowledge that can be useful in a later analysis, which would be the model.
 
 
 
@@ -57,18 +56,18 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 ## **4. Despliegue de la Aplicación**
 
 
-## **5. Conclusiones**
+## **5. Conclusions**
 
-Mis principales conclusiones son las siguientes:
+My main conclusions are as follows:
 
 
 
-## **6. Recomendaciones**
+## **6. Recommendations**
 
  
 
 
-## 🛠 Tecnologías Utilizadas
+## 🛠 Used technology
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
