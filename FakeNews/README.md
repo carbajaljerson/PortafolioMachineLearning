@@ -27,7 +27,7 @@ Exploratory Data Analysis
 Creation of the Predictive Model
 Deployment of the Application
 
-## Datos
+## Data
 
 This project was developed based on 2 files in Excel format:
 
