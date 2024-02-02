@@ -31,7 +31,7 @@ Deployment of the Application
 
 This project was developed based on 2 files in Excel format:
 
-The data used for this analysis project can be found at the following [download link](https://drive.google.com/drive/folders/155gdhdu0Jbts6t6P1BC5PRrdRLdDe5ZD?usp=sharing) 
+The data used for this analysis project can be found at the following [download link](https://drive.google.com/drive/folders/1FXK57f_54-qD90T9oo8ToZhY_Oj-Xmho?usp=sharing) 
 
 
 ## ** PROJECT DEVELOPMENT ** 
@@ -49,20 +49,6 @@ Various transformations were performed, meeting data standardization by analyzin
 Once the data is clean, it's time to review the relationships between the variables in the dataset, find if there are outliers or anomalies (which don't necessarily have to be errors), and check if there is any pattern or knowledge that can be useful in a later analysis, which would be the model.
 
 
-
-## **3. Modelo Predictivo**
-
-
-## **4. Despliegue de la Aplicación**
-
-
-## **5. Conclusions**
-
-My main conclusions are as follows:
-
-
-
-## **6. Recommendations**
 
  
 
