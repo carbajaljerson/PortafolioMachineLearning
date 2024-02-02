@@ -49,9 +49,28 @@ Various transformations were performed, meeting data standardization by analyzin
 Once the data is clean, it's time to review the relationships between the variables in the dataset, find if there are outliers or anomalies (which don't necessarily have to be errors), and check if there is any pattern or knowledge that can be useful in a later analysis, which would be the model.
 
 
+<p align=center>
+<img src="src\image_01.png" height="350" weight="500">
+<p>
 
- 
+- True news tends to have medium-length texts, while fake news tends to have shorter or very long texts, so they are centered in the lower and upper ranges. </br>
 
+
+<p align=center>
+<img src="src\image_02.png" height="350" weight="400">
+<p>
+
+- The median (the central line in the boxplot rectangle) of the text length when the news is true is slightly higher compared to when it is false so True news may tend to have slightly longer texts than false ones.
+
+- The box when the news is True, is taller than the other. This means that the length of the texts is more variable in the group of true news compared to the other.
+
+- There are more outliers when the news is False. This indicates that there are some false news with exceptionally long or short texts compared to true news. </br>
+
+<p align=center>
+<img src="src\image_03.png" height="300" weight="400">
+<p>
+
+- It can be indicated that the news is centered on political topics as well as on relevant speeches, with a tendency towards coverage of the presidency and American politics.
 
 ## 🛠 Used technology
 
