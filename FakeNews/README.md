@@ -8,14 +8,22 @@
 
 # <h1 align="center">**`Fake News`**</h1>
 
+<p align=center>
+<img src="src\image_00.png" height="350" weight="500">
+<p>
+
 Welcome, below is the development of the Machine Learning Project:
 
 ## Introduction
 
-
+Development of a machine learning program to identify when an article might be fake news.
 
 ## Definition of Project and Requirements:
-
+ 
+- Feature Extraction: Extract relevant features from the text, such as word frequencies.
+- Model Training: Train the selected models using the preprocessed dataset to learn patterns distinguishing fake from real news.
+- Model Selection: Choose appropriate machine learning algorithms, such as logistic regression, random forest, etc.
+- Evaluation: Assess the performance of the trained models using metrics like accuracy, precision, recall, and F1-score.
 
 
 ## 📊 Project Scope
