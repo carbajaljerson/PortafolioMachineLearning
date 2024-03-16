@@ -47,19 +47,19 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 </p>
 El gráfico muestra los tres géneros más comunes en nuestro conjunto de datos. Cada barra representa la frecuencia con la que aparece un género específico en nuestros datos. Observamos que el género más frecuente es "Action", seguido por "Indie" y "Adventure". Este tipo de visualización nos ayuda a identificar las preferencias de géneros en la plataforma Steam.
 
-</br>
+</br></br>
 <p align="center">
   <img src="src\image_02.png" height="400" weight="400">
 </p>
 El gráfico muestra los 10 principales editores en nuestro conjunto de datos. Este tipo de visualización nos ayuda a identificar los editores más dominantes en la industria de videojuegos el principal es "Valve", seguido por "Smartly Dressed Games" y "Bohemia Interactive". 
 
-</br>
+</br></br>
 <p align="center">
   <img src="src\image_03.png" height="330" weight="400">
 </p>
 Esta visualización proporciona una rápida comprensión de la distribución de los 10 títulos de contenido más populares en la plataforma Steam.
 Observamos que el título de contenido más frecuente es "Unturned", seguido por "Robocraft" y "Terraria". Las barras restantes muestran otros títulos de videojuegos que también tienen una frecuencia significativa en el conjunto de datos.
-</br>
+</br></br>
 <p align="center">
   <img src="src\nube_app_name.png" height="320" weight="550" >
 </p>
