@@ -55,7 +55,7 @@ El gráfico muestra los 10 principales editores en nuestro conjunto de datos. Es
 
 </br>
 <p align="center">
-  <img src="src\image_03.png" height="370" weight="420">
+  <img src="src\image_03.png" height="330" weight="400">
 </p>
 Esta visualización proporciona una rápida comprensión de la distribución de los 10 títulos de contenido más populares en la plataforma Steam.
 Observamos que el título de contenido más frecuente es "Unturned", seguido por "Robocraft" y "Terraria". Las barras restantes muestran otros títulos de videojuegos que también tienen una frecuencia significativa en el conjunto de datos.
