@@ -40,10 +40,31 @@ de reseñas de los juegos.
 Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables de los datasets, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y verificar si hay algún patrón que sirva en un análisis posterior. Las nubes de palabras nos mostraran cuales son las palabras que se presentan con una mayor frecuencia, se deja la gráfica sobre la columna 'app_name'
 
 
+
+
+<p align="center">
+  <img src="src\image01.png" >
+</p>
+El gráfico muestra los tres géneros más comunes en nuestro conjunto de datos. Cada barra representa la frecuencia con la que aparece un género específico en nuestros datos. Observamos que el género más frecuente es "Action", seguido por "Indie" y "Adventure". Este tipo de visualización nos ayuda a identificar las preferencias de géneros en la plataforma Steam.
+
+</br>
+<p align="center">
+  <img src="src\image02.png" >
+</p>
+El gráfico muestra los 10 principales editores en nuestro conjunto de datos. Este tipo de visualización nos ayuda a identificar los editores más dominantes en la industria de videojuegos el principal es "Valve", seguido por "Smartly Dressed Games" y "Bohemia Interactive". 
+
+</br>
+<p align="center">
+  <img src="src\image03.png" >
+</p>
+Esta visualización proporciona una rápida comprensión de la distribución de los 10 títulos de contenido más populares en la plataforma Steam.
+Observamos que el título de contenido más frecuente es "Unturned", seguido por "Robocraft" y "Terraria". Las barras restantes muestran otros títulos de videojuegos que también tienen una frecuencia significativa en el conjunto de datos.
+</br>
 <p align="center">
   <img src="src\nube_app_name.png" >
 </p>
 
+La nube de palabras muestra los nombres de las aplicaciones más comunes en nuestro conjunto de datos. El tamaño de cada palabra en la nube indica su frecuencia de aparición en la columna 'app_name'. Esta visualización nos ofrece una representación visual rápida y fácil de entender de las aplicaciones más populares en nuestro conjunto de datos, esto puede ser útil para identificar las tendencias respecto a los nombres de los videojuegos. 
 
 ## **3. Etapa de Desarrollo API** :
 
