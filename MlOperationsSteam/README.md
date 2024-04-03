@@ -22,7 +22,7 @@ Este proyecto cuenta con tres archivos JSON:
 
 * **output_steam_games.json** es un dataset en que se encuentran datos propios de los videojuegos, es decir su género, título, precio, descuento, empresa que lo desarrolló y score como los datos más significativos.
 
-## **DESARROLLO DEL PROYECO ** :white_circle:
+## **DESARROLLO DEL PROYECTO ** :
 
 ## **1. Etapa del proceso ETL** :
 
