@@ -15,7 +15,7 @@ El presente proyecto tiene como finalidad la elaboración de una aplicación que
 
 
 ## Proyecto Noticias Falsas 
-En este proyecto se desarrolla a través del aprendizaje automático se logra identificar cuándo un artículo de noticia puede ser una noticia falsa. [Enlace](https://github.com/carbajaljerson/PortafolioMachineLearning/tree/main/FakeNews\ ) 
+Este proyecto se desarrolla a través del aprendizaje automático lográndose identificar cuándo un artículo de noticia pueda llegar a ser una noticia falsa. [Enlace](https://github.com/carbajaljerson/PortafolioMachineLearning/tree/main/FakeNews\ ) 
 
 ## Proyecto de Sistemas de Recomendaciones
 En este proyecto, se desarrolló un modelo de recomendación basado en la similitud del coseno para recomendar videojuegos a los usuarios, así como un modelo de series de tiempo para predecir el precio final de los videojuegos. [Enlace](https://github.com/carbajaljerson/PortafolioMachineLearning/tree/main/GameRecommendation\ )
